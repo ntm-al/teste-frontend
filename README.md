@@ -6,7 +6,7 @@ Relatório que, utilizando dados de uma api, mostre a média de ex-alunos do SEN
 
 Abaixo existe um link com um mockup que você pode usar de base, fique a vontade para mudá-lo, podendo usar grafico ao inves de tabelas ou como quiser, iremos levar isso consideração na hora de avaliar.
 
-Para baixar o mockup, clique aqui.
+Para baixar o mockup, [clique aqui](https://github.com/SENAI-NTM/teste-frontend/blob/master/mockup.png).
 
 ## Como?
 1. Consulta a API/JSON.
