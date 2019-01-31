@@ -34,7 +34,7 @@ Faça download clicando [aqui](https://github.com/SENAI-NTM/teste-backend/blob/m
 ## Instruções?
 1. Você está livre para escolher (ou não) qualquer framework/lib front-end.
 2. Adicione a esse README, instruções de como executar a sua solução.
-3. Você pode subir o seu código front-end através de um forker desse repositório github ou enviar por tudo email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
+3. Você pode subir o seu código front-end através de um fork desse repositório github ou enviar por tudo email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
 4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
 5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
