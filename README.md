@@ -13,7 +13,7 @@ Para baixar o mockup, [clique aqui](https://github.com/SENAI-NTM/teste-frontend/
 1. Consulta a API/JSON.
 2. Pegar resultado e exibir para o usuário de forma usual.
 
-## Púlbico alvo do relatório
+## Público alvo do relatório
 Gestores e coordenadores de Educação do SENAI.
 
 ## Dados de entrada
