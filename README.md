@@ -10,13 +10,13 @@ Para baixar o mockup, [clique aqui](https://github.com/SENAI-NTM/teste-frontend/
 
 ## Como?
 1. Consulta a API/JSON.
-2. Pegar resultado e exibe para o usuário de forma usual.
+2. Pegar resultado e exibir para o usuário de forma usual.
 
 ## Púlbico alvo do relatório
 Gestores e coordenadores de Educação do SENAI.
 
 ## Dados de entrada
-1. Arquivo consulta a api do teste anterior ou arquivo json abaixo, ambos na estrutura abaixo:
+1. Consulta a api do teste anterior ou arquivo JSON a seguir, ambos na mesma estrutura abaixo:
 ```json
 {
   "regionals": [
