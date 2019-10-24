@@ -2,7 +2,7 @@
 Repositório usado para o teste de front-end do Núcleo de Tecnologia Multimídia.
 
 ## O que?
-Relatório que, utilizando dados de uma api, mostre a taxa (média) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
+Relatório que, utilizando dados de uma api, mostre a taxa (a partir do coeficiente) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
 
 
 Abaixo existe um link com um mockup que você pode usar de base, fique a vontade para mudá-lo, podendo usar grafico ao inves de tabelas ou como quiser, iremos levar isso consideração na hora de avaliar.
