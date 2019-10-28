@@ -1,0 +1,14 @@
+h1{
+    width: 100%;
+    text-align: center;
+}
+th, td{
+    padding: 10px 40px;
+    text-align: center;
+    background-color: #d8d8d8;
+    border-radius: 5px;
+}
+#reg{
+    display: flex;
+    justify-content: center;
+}
